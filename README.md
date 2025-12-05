@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a data science enthusiast currently working on projects involving:<br>Python, SQL ,machine learning to turn raw data into meaningful insights.<br>I’m open to<br>Internships and full-time roles in Data Science, Data Analytics,<br>and Machine Learning.<br>Fun fac<br>I love uncovering patterns hidden in data — for me, <br>solving real-world problems with data feels like connecting the dots in a story.
+I’m a data science enthusiast currently working on projects involving:<br>Python, SQL ,machine learning to turn raw data into meaningful insights.<br>I’m open to<br>Internships and full-time roles in Data Science, Data Analytics,<br>and Machine Learning.<br>Fun fact<br>I love uncovering patterns hidden in data — for me, <br>solving real-world problems with data feels like connecting the dots in a story.
 
 
 # 💻 Tech Stack:
