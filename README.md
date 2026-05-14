@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f5/ca/04/f5ca042a0ac1c4b13ea21750b7ac7744.gif" width="100%"/>
+  <img src="https://i.pinimg.com/originals/fc/9c/e5/fc9ce59ceff32d597144e47606325126.gif" width="100%"/>
 </p>
 
 <h1 align="center">Arya Kadam</h1>
@@ -34,30 +34,19 @@ Currently learning React, Node.js and modern backend systems while building crea
 
 ---
 
-## Backend
+## Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,python,cpp" />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql" />
 </p>
 
 ---
 
-## Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
----
 
 ## Machine Learning / Data Science
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,matplotlib" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,matplotlib,tensorflow" />
 </p>
 
 ---
@@ -65,16 +54,9 @@ Currently learning React, Node.js and modern backend systems while building crea
 ## Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
----
-
-# GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aryakadam1010/Aryakadam1010/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 ---
 
 # Connect
@@ -97,15 +79,8 @@ Currently learning React, Node.js and modern backend systems while building crea
 
 ---
 
-# Visitor Counter
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Aryakadam1010&label=Profile%20Views&color=8B0000&style=flat" />
-</p>
-
----
-
-# Future Builds
+# Future Scope
 
 - Full Stack Applications
 - AI & ML Systems
