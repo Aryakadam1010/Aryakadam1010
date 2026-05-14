@@ -24,44 +24,92 @@ Currently learning React, Node.js and modern backend systems while building crea
 
 ---
 
-## Tech Stack
+# Tech Stack
+
+## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,python,cpp,mysql,nodejs,react,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
 </p>
 
 ---
 
-## GitHub Analytics
+## Backend
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryakadam1010&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=8B0000&border_color=222222"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryakadam1010&theme=dark&background=000000&ring=8B0000&fire=8B0000&currStreakLabel=ffffff&border=222222"/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp" />
 </p>
 
 ---
 
-## Contribution Activity
+## Database
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryakadam1010&bg_color=000000&color=ffffff&line=8B0000&point=ffffff&area=true&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ---
 
-## Connect
+## Machine Learning / Data Science
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,matplotlib" />
+</p>
+
+---
+
+## Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryakadam1010/Aryakadam1010/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+---
+
+# Connect
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/arya-kadam-6037422b3/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://www.instagram.com/aryakadam_17/?hl=en">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
 <a href="https://orbitxstudios.in">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="45"/>
 </a>
-- Creative developer products
+
+</p>
+
+---
+
+# Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Aryakadam1010&label=Profile%20Views&color=8B0000&style=flat" />
+</p>
+
+---
+
+# Future Builds
+
+- Full Stack Applications
+- AI & ML Systems
+- Startup Projects
+- Real World Problem Solving
+- Creative Developer Products
+
