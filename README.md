@@ -77,6 +77,10 @@ Currently learning React, Node.js and modern backend systems while building crea
 
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryakadam1010/Aryakadam1010/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 
