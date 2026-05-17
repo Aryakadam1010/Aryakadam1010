@@ -9,7 +9,7 @@ Learning. Building. Scaling.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Founder+@+OrbitX+Studios;AI+%26+DS+Student;Building+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Founder+@+OrbitX+Studios;AI+%26+ML+Enthusiast" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Currently learning React, Node.js and modern backend systems while building crea
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aryakadam1010/Aryakadam1010/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Aryakadam1010/Aryakadam1010/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
